@@ -1,0 +1,2 @@
+# LinkedListpoppush
+Created with CodeSandbox
